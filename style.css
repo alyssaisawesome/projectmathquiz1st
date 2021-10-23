@@ -16,7 +16,7 @@ h2 {
   body {
     background-image: url(Capture.PNG);
     background-repeat: no-repeat;
-    background-size: 1500px 800px;
+    background-size: cover;
   }
 
   #player1_name , #player2_name
